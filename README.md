@@ -1,8 +1,5 @@
 - **ID**: Real鱼丸粗面
-- **Interested fields**: AIOps, Time Series Data Mining, NLP, Algorithms
+- **Interested fields**: AIOps, Time series data mining, NLP, Algorithms, Real-time computing
 - **E-mail**: zhuoyin94@163.com
 
-<!---
-MichaelYin1994/MichaelYin1994 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+![MichaelYin's GitHub stats](https://github-readme-stats.vercel.app/api?username=MichaelYin1994&show_icons=true&theme=dark)
