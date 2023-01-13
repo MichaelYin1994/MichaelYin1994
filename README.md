@@ -3,4 +3,4 @@
 - **E-mail**: zhuoyin94@163.com
 - 亦余心之所善兮，虽九死其犹未悔
 
-![MichaelYin's GitHub stats](https://github-readme-stats.vercel.app/api?username=MichaelYin1994&show_icons=true&theme=dark)
+![MichaelYin's GitHub stats](https://github-readme-stats-eight-theta.vercel.app/api?username=MichaelYin1994&show_icons=true&theme=dark)
